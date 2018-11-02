@@ -1,3 +1,3 @@
 # raciocinioLogico-PHP
-#Teste para Studio Visual.
+#Feito para Studio Visual.
 
